@@ -1,6 +1,6 @@
 # Intro-to-Selfdriving-car-Nanodegree
 
-Selfdriving cars are a world changing technology.
+Self-driving cars are a world changing technology.
 
 ---
 ### Hi, I'm hyungoo and welcome to my github page. This repository you can find my results of all nanodegree project. This nanodegree has a 4-month term. Study 10 hrs/week and complete in 4 month. (https://www.udacity.com/course/intro-to-self-driving-cars--nd113)
