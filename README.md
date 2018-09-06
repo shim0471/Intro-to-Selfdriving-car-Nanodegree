@@ -21,7 +21,7 @@ The Intro self-driving car Nanodegree was subdivided into the following chapters
 8. Computer Vision and Machine learning
 ---
 
-### Projects ## 
+## Projects ## 
 1. JoyRide - Reverse Parking of a car 
 2. Implementation of a Matrix Class in Python 
 3. Translation of a Python Histogram Filter to C++ 
