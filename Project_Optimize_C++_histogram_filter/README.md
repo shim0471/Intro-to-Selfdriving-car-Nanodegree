@@ -12,9 +12,11 @@ g++ -std=c++11 -O3 main.cpp blur.cpp initialize_beliefs.cpp move.cpp normalize.c
 Below is compare Original code of andy who teach self driving car course in the Udacity and my optimize code...
 
 < Andy's code >
+
 ![](andy's_original.png)
 
 
 < My code with gcc -03 level >
+
 ![](hyungoo_optimize.png)
 
